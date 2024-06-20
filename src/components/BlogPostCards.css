@@ -1,0 +1,122 @@
+.photo-1569348642938-46517ef6f1-icon {
+  height: 200px;
+  width: 262.5px;
+  position: relative;
+  border-radius: 0 0 0 2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 200px;
+}
+.in-todays-hectic,
+.may-27-2024,
+.the-benefits-of {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.the-benefits-of {
+  width: 347px;
+  font-size: 18px;
+  line-height: 25px;
+  max-width: 100%;
+}
+.in-todays-hectic,
+.may-27-2024 {
+  flex-shrink: 0;
+}
+.may-27-2024 {
+  width: 127.8px;
+  height: 22px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  font-family: "PT Sans";
+  color: #999;
+}
+.in-todays-hectic {
+  align-self: stretch;
+  height: 95px;
+  line-height: 22px;
+}
+.read-more {
+  text-decoration: none;
+  position: relative;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Raleway;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 61px;
+}
+.link9,
+.read-more-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.link9,
+.link9:hover {
+  box-sizing: border-box;
+}
+.link9 {
+  cursor: pointer;
+  border: 1px solid #f57ba2;
+  padding: 4px 8px 4px 11px;
+  background-color: #f57ba2;
+  width: 82.4px;
+  border-radius: 2px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.link9:hover {
+  background-color: #c24770;
+  border: 1px solid #c24770;
+}
+.read-more-buttons {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.blog-post-cards,
+.blog-post-content,
+.blog-post-descriptions {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.blog-post-descriptions {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+  color: #383838;
+  font-family: Raleway;
+}
+.blog-post-cards,
+.blog-post-content {
+  max-width: 100%;
+}
+.blog-post-content {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 290px;
+}
+.blog-post-cards {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 41.5px;
+  text-align: left;
+  font-size: 14px;
+  color: #693194;
+  font-family: Nunito;
+}
+@media screen and (max-width: 925px) {
+  .photo-1569348642938-46517ef6f1-icon {
+    flex: 1;
+  }
+  .blog-post-cards {
+    flex-wrap: wrap;
+    gap: 21px;
+  }
+}

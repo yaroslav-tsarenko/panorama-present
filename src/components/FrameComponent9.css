@@ -1,0 +1,229 @@
+.icon5 {
+  width: 24.4px;
+  height: 44px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 88px 0 0;
+}
+.excellent {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 25px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 103px;
+}
+.icon10,
+.icon6,
+.icon7,
+.icon8,
+.icon9 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon6,
+.icon7,
+.icon8,
+.icon9 {
+  align-self: stretch;
+  width: 21.3px;
+  max-height: 100%;
+  min-height: 27px;
+}
+.icon10 {
+  height: 21px;
+  width: 20.9px;
+}
+.review-heading-container,
+.stars {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.stars {
+  align-items: center;
+  padding: 0;
+  gap: 2px;
+}
+.review-heading-container {
+  align-items: flex-start;
+  gap: 11px;
+}
+.span {
+  color: #00e;
+}
+.average1 {
+  color: #a2a2a2;
+}
+.average {
+  flex: 1;
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  min-width: 95.1px;
+}
+.span1 {
+  color: #00e;
+}
+.reviews1 {
+  color: #a2a2a2;
+}
+.reviews {
+  flex: 1;
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  min-width: 100.7px;
+}
+.average-reviews-container {
+  width: 210.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: "PT Sans";
+}
+.link-inner-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.link1,
+.testimonials {
+  display: flex;
+  align-items: flex-start;
+}
+.link1 {
+  width: 550.7px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05), 0 5px 1px -3px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 14px 15px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.testimonials {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 64px;
+  font-size: 14px;
+  font-family: "PT Sans";
+}
+.link-parent {
+  width: 1055px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+  max-width: 100%;
+}
+.icon11 {
+  width: 24.7px;
+  height: 44px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.homepage-inner,
+.icons-parent,
+.icons1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icons1 {
+  flex-direction: column;
+  padding: 88px 0 0;
+}
+.homepage-inner,
+.icons-parent {
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.icons-parent {
+  background-color: #c6c6c6;
+  overflow: hidden;
+  padding: 100px 362px 98px 363px;
+  gap: 45px;
+}
+.homepage-inner {
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1825px) {
+  .icons-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .testimonials {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+  .icons-parent {
+    padding-left: 181px;
+    padding-right: 181px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .link-inner-container {
+    flex-wrap: wrap;
+  }
+  .testimonials {
+    gap: 16px;
+  }
+  .link-parent {
+    gap: 15px;
+  }
+  .icons-parent {
+    gap: 22px;
+    padding-left: 90px;
+    padding-right: 90px;
+    box-sizing: border-box;
+  }
+  .homepage-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .excellent {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .review-heading-container {
+    flex-wrap: wrap;
+  }
+  .icons-parent {
+    padding-top: 65px;
+    padding-bottom: 64px;
+    box-sizing: border-box;
+  }
+}

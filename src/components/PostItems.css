@@ -1,0 +1,117 @@
+.photo-1569348642938-46517ef6f1-icon3 {
+  height: 200px;
+  width: 262.5px;
+  position: relative;
+  border-radius: 0 0 0 2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 200px;
+}
+.how-to-cultivate {
+  width: 347px;
+  position: relative;
+  font-size: 18px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.developing-a-growth,
+.may-20-2023 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.may-20-2023 {
+  width: 127.8px;
+  height: 22px;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  font-family: "PT Sans";
+  color: #999;
+}
+.developing-a-growth {
+  align-self: stretch;
+  height: 95px;
+  line-height: 22px;
+}
+.read-more3 {
+  text-decoration: none;
+  position: relative;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Raleway;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 61px;
+}
+.link25 {
+  cursor: pointer;
+  border: 1px solid #f57ba2;
+  padding: 4px 8px 4px 11px;
+  background-color: #f57ba2;
+  width: 82.4px;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.link25:hover {
+  background-color: #c24770;
+  border: 1px solid #c24770;
+  box-sizing: border-box;
+}
+.developing-a-growth-mindset-is-parent,
+.read-more-links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.developing-a-growth-mindset-is-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 12px;
+  color: #383838;
+  font-family: Raleway;
+}
+.how-to-cultivate-a-growth-mind-parent,
+.post-items1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-to-cultivate-a-growth-mind-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 290px;
+}
+.post-items1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 26px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  text-align: left;
+  font-size: 14px;
+  color: #693194;
+  font-family: Nunito;
+}
+@media screen and (max-width: 925px) {
+  .photo-1569348642938-46517ef6f1-icon3 {
+    flex: 1;
+  }
+  .post-items1 {
+    flex-wrap: wrap;
+  }
+}

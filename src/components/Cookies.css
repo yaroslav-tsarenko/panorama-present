@@ -1,0 +1,143 @@
+.how-we-use-cookies {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.essential-cookies,
+.how-we-use-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.essential-cookies {
+  line-height: 29px;
+}
+.essential-cookies-are {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.essential-cookies-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.performance-and-analytics {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.performance-and-analytics1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.performance-and-analytics-cook-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.functionality-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.functionality-cookies-allow {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.functionality-cookies-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.advertising-and-targeting {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.advertising-and-targeting1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.advertising-and-targeting-cook-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.advertising-and-targeting-cook-parent,
+.cookie-types,
+.cookies {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookie-types {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.cookies {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Nunito;
+}
+@media screen and (max-width: 925px) {
+  .how-we-use-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .cookies {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .advertising-and-targeting,
+  .essential-cookies,
+  .functionality-cookies,
+  .how-we-use-container,
+  .performance-and-analytics {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

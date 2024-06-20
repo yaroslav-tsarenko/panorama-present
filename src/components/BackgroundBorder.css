@@ -1,0 +1,44 @@
+.link-icon8 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 75px);
+  left: calc(50% - 75px);
+  object-fit: cover;
+}
+.off13,
+.p15 {
+  margin: 0;
+}
+.off12 {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.backgroundborder9,
+.link38 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.link38 {
+  width: 66px;
+  border-top: 66px solid transparent;
+  border-left: 66px solid transparent;
+  box-sizing: border-box;
+  padding: 14px 6px 30px;
+  z-index: 1;
+}
+.backgroundborder9 {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  padding: 0 1px 83px;
+  position: relative;
+  text-align: center;
+  font-size: 10px;
+  color: #fff;
+  font-family: "PT Sans";
+}

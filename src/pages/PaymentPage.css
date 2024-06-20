@@ -1,0 +1,249 @@
+.vector-icon {
+  height: 16.5px;
+  width: 21.5px;
+  position: relative;
+}
+.p {
+  text-transform: uppercase;
+}
+.anaroma-presents {
+  text-transform: capitalize;
+}
+.panaroma-presents {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 109px;
+  white-space: nowrap;
+}
+.logo,
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.logo-container {
+  align-items: flex-end;
+  gap: 2.9px;
+}
+.logo {
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 0 20px 0 0;
+}
+.frame-child {
+  align-self: stretch;
+  height: 451px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.powered-by {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 89px;
+  white-space: nowrap;
+}
+.powered-by-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.payment-icons {
+  align-self: stretch;
+  width: 34px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 24px;
+}
+.frame-item {
+  width: 1px;
+  height: 21px;
+  position: relative;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.legal {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 43px;
+}
+.legal-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.refunds {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 61px;
+}
+.refunds-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.frame-div,
+.payment-icons-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.payment-icons-parent {
+  flex: 1;
+  justify-content: space-between;
+  min-width: 136px;
+  gap: 20px;
+}
+.frame-div {
+  width: 329px;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  gap: 99px;
+  font-size: 12px;
+  color: #000;
+  font-family: "Apercu Pro";
+}
+.frame-container,
+.logo-parent,
+.paymentpage-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.logo-parent {
+  align-self: stretch;
+  gap: 124px;
+}
+.paymentpage-inner {
+  width: 437px;
+  padding: 119px 0 0;
+  box-sizing: border-box;
+  min-width: 437px;
+}
+.frame-inner {
+  height: 1004px;
+  width: 960px;
+  position: relative;
+  box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.paymentpage,
+.rectangle-parent {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-parent {
+  flex: 1;
+  box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.05);
+  padding: 68px 38px;
+  min-width: 624px;
+  min-height: 1004px;
+  max-width: 100%;
+}
+.paymentpage {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding: 0 0 0 411px;
+  gap: 112px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 11.5px;
+  color: #fff;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1525px) {
+  .paymentpage-inner {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .paymentpage-inner {
+    min-width: 100%;
+  }
+  .rectangle-parent {
+    padding-top: 44px;
+    padding-bottom: 44px;
+    box-sizing: border-box;
+    min-width: 100%;
+    min-height: auto;
+  }
+  .paymentpage {
+    flex-wrap: wrap;
+    gap: 56px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .paymentpage-inner,
+  .rectangle-parent {
+    padding-top: 77px;
+    box-sizing: border-box;
+  }
+  .rectangle-parent {
+    padding-top: 29px;
+    padding-bottom: 29px;
+  }
+  .paymentpage {
+    gap: 28px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-div {
+    flex-wrap: wrap;
+  }
+  .frame-container {
+    gap: 49px;
+  }
+  .logo-parent {
+    gap: 62px;
+  }
+  .paymentpage-inner {
+    padding-top: 50px;
+    box-sizing: border-box;
+  }
+}

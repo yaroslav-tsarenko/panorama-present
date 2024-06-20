@@ -1,0 +1,153 @@
+.heading-24 {
+  margin: 0;
+  align-self: stretch;
+  height: 215px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sell-gift-cards2 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 117px;
+}
+.cards {
+  background-color: #8856f5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  white-space: nowrap;
+}
+.buy-gift-cards2 {
+  position: relative;
+  font-size: 18px;
+  line-height: 25.71px;
+  font-family: Raleway;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 119px;
+}
+.cards-parent,
+.cards1 {
+  display: flex;
+  flex-direction: row;
+}
+.cards1 {
+  cursor: pointer;
+  border: 0;
+  padding: 12px 11px;
+  background-color: #8856f5;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.cards1:hover {
+  background-color: #a170ff;
+}
+.cards-parent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  font-family: Raleway;
+}
+.heading-container-parent {
+  width: 751px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: calc(100% - 974px);
+  flex-shrink: 0;
+}
+.beautiful-gift-voucher-with-ha-icon {
+  margin-top: -236px;
+  height: 737px;
+  flex: 1;
+  position: relative;
+  max-width: calc(100% - 815px);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-group {
+  align-self: stretch;
+  height: 712px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 224px 0 223px 195px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 80px;
+  color: #1d1d1d;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1825px) {
+  .heading-container-parent {
+    max-width: 100%;
+  }
+  .beautiful-gift-voucher-with-ha-icon {
+    display: none;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .frame-group {
+    gap: 32px;
+    padding-left: 97px;
+    padding-top: 146px;
+    padding-bottom: 145px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .heading-24 {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .frame-group {
+    gap: 16px;
+    padding-left: 48px;
+    padding-top: 95px;
+    padding-bottom: 94px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-24 {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .cards-parent {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    height: auto;
+  }
+}

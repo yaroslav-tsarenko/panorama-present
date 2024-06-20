@@ -1,0 +1,1098 @@
+.terms-and-conditions {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.terms-and-conditions-wrapper {
+  align-self: stretch;
+  background-color: #f57ba2;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-accessing-this,
+.welcome-to-your {
+  margin: 0;
+}
+.lilylamb-kids-we-container {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+  display: inline-block;
+  max-width: 100%;
+}
+.definitions,
+.definitions1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.definitions1 {
+  padding-left: 43px;
+}
+.definitions {
+  line-height: 120%;
+  font-weight: 400;
+}
+.a-gift-card,
+.definitions,
+.gift-card {
+  align-self: stretch;
+  position: relative;
+}
+.gift-card {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.a-gift-card {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.gift-card-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.the-website-owned,
+.website {
+  align-self: stretch;
+  position: relative;
+}
+.website {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.the-website-owned {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.website-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.any-individual-or,
+.user {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.any-individual-or {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.user-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitions-parent,
+.frame-parent,
+.user-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitions-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.general-provisions1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.acceptance-of-terms,
+.general-provisions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.acceptance-of-terms {
+  line-height: 29px;
+}
+.by-accessing-and {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.acceptance-of-terms-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.modifications-to-terms {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-company-reserves {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.modifications-to-terms-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.governing-law,
+.these-terms-and {
+  align-self: stretch;
+  position: relative;
+}
+.governing-law {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-terms-and {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.governing-law-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-group,
+.general-provisions-parent,
+.governing-law-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.general-provisions-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.purchase-of-gift-cards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.purchase-of-gift-container,
+.purchasing-channels {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.purchasing-channels {
+  line-height: 29px;
+}
+.gift-cards-can {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.purchasing-channels-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.load-amounts,
+.the-minimum-and {
+  align-self: stretch;
+  position: relative;
+}
+.load-amounts {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.the-minimum-and {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.load-amounts-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.payment-methods {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.accepted-payment-methods {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.payment-methods-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.confirmation {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.upon-successful-completion {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.confirmation-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.usage-restrictions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-cannot {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.usage-restrictions-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-container,
+.purchase-of-gift-cards-parent,
+.usage-restrictions-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.purchase-of-gift-cards-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.lost-or-stolen-gift-cards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.lost-or-stolen-container {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lost-or-stolen-container,
+.responsibility,
+.your-company-is {
+  align-self: stretch;
+  position: relative;
+}
+.responsibility {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-company-is {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.responsibility-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.safeguarding,
+.users-should-keep {
+  align-self: stretch;
+  position: relative;
+}
+.safeguarding {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.users-should-keep {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.safeguarding-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-div,
+.lost-or-stolen-gift-cards-parent,
+.safeguarding-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.lost-or-stolen-gift-cards-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.refunds-and-returns {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.no-cash-refunds,
+.refunds-and-returns-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.no-cash-refunds {
+  line-height: 29px;
+}
+.gift-cards-cannot1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.no-cash-refunds-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.if-a-product,
+.merchant-returns {
+  align-self: stretch;
+  position: relative;
+}
+.merchant-returns {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-a-product {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.merchant-returns-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent1,
+.merchant-returns-parent,
+.refunds-and-returns-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.refunds-and-returns-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.user-responsibilities1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.user-responsibilities {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.compliance,
+.user-responsibilities,
+.users-must-use {
+  align-self: stretch;
+  position: relative;
+}
+.compliance {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.users-must-use {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.compliance-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.prohibited-uses,
+.users-must-not {
+  align-self: stretch;
+  position: relative;
+}
+.prohibited-uses {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.users-must-not {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.prohibited-uses-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent2,
+.prohibited-uses-parent,
+.user-responsibilities-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.user-responsibilities-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.privacy,
+.privacy1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.privacy1 {
+  padding-left: 43px;
+}
+.privacy {
+  line-height: 120%;
+  font-weight: 400;
+}
+.data-collection,
+.privacy,
+.your-company-is1 {
+  align-self: stretch;
+  position: relative;
+}
+.data-collection {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-company-is1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.data-collection-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.by-using-our,
+.consent {
+  align-self: stretch;
+  position: relative;
+}
+.consent {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.by-using-our {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.consent-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.consent-parent,
+.frame-parent3,
+.privacy-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.privacy-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.limitation-of-liability {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.indirect-damages,
+.limitation-of-liability-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.indirect-damages {
+  line-height: 29px;
+}
+.your-company-is2 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.indirect-damages-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.maximum-liability {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-companys-liability {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.maximum-liability-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent4,
+.limitation-of-liability-parent,
+.maximum-liability-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.limitation-of-liability-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.amendments,
+.amendments1,
+.right-to-amend {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.amendments1 {
+  padding-left: 43px;
+}
+.amendments,
+.right-to-amend {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.right-to-amend {
+  line-height: 29px;
+}
+.your-company-reserves1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.right-to-amend-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.it-is-the,
+.user-responsibility {
+  align-self: stretch;
+  position: relative;
+}
+.user-responsibility {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.it-is-the {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.user-responsibility-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.amendments-parent,
+.frame-parent5,
+.user-responsibility-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.amendments-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.governing-law1,
+.governing-law2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.governing-law2 {
+  padding-left: 43px;
+}
+.governing-law1 {
+  line-height: 120%;
+  font-weight: 400;
+}
+.governing-law1,
+.jurisdiction,
+.these-terms-and1 {
+  align-self: stretch;
+  position: relative;
+}
+.jurisdiction {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-terms-and1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "PT Sans";
+}
+.jurisdiction-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-wrapper,
+.governing-law-group,
+.jurisdiction-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  align-self: stretch;
+  font-size: 24px;
+}
+.governing-law-group {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information6,
+.contact-information7 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information7 {
+  padding-left: 43px;
+}
+.contact-information6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main3,
+.blank-line3,
+.brandname-customer-support3,
+.by-using-brandnames,
+.email-supportbrandnamecom3,
+.if-you-have3,
+.phone-1-800-123-45673 {
+  margin: 0;
+}
+.if-you-have-container3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.contact-information-container,
+.if-you-have-any-questions-abou-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.if-you-have-any-questions-abou-wrapper {
+  align-self: stretch;
+  font-size: 16px;
+  font-family: "PT Sans";
+}
+.contact-information-container {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.lilylamb-kids-we-us-or-container,
+.termsandconditionspage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-family: Nunito;
+}
+.lilylamb-kids-we-us-or-container {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+}
+.termsandconditionspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+  color: #fff;
+}
+@media screen and (max-width: 1350px) {
+  .lilylamb-kids-we-us-or-container {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .terms-and-conditions {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .definitions {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .definitions-parent {
+    gap: 16px;
+  }
+  .general-provisions {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .general-provisions-parent {
+    gap: 16px;
+  }
+  .purchase-of-gift-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .purchase-of-gift-cards-parent {
+    gap: 16px;
+  }
+  .lost-or-stolen-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .lost-or-stolen-gift-cards-parent {
+    gap: 16px;
+  }
+  .refunds-and-returns-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .refunds-and-returns-parent {
+    gap: 16px;
+  }
+  .user-responsibilities {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .user-responsibilities-parent {
+    gap: 16px;
+  }
+  .privacy {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .privacy-parent {
+    gap: 16px;
+  }
+  .limitation-of-liability-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .limitation-of-liability-parent {
+    gap: 16px;
+  }
+  .amendments {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .amendments-parent {
+    gap: 16px;
+  }
+  .governing-law1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .governing-law-group {
+    gap: 16px;
+  }
+  .contact-information6 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-information-container {
+    gap: 16px;
+  }
+  .lilylamb-kids-we-us-or-container {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .terms-and-conditions {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptance-of-terms,
+  .amendments,
+  .compliance,
+  .confirmation,
+  .consent,
+  .contact-information6,
+  .data-collection,
+  .definitions,
+  .general-provisions,
+  .gift-card,
+  .governing-law,
+  .governing-law1,
+  .indirect-damages,
+  .jurisdiction,
+  .limitation-of-liability-container,
+  .load-amounts,
+  .lost-or-stolen-container,
+  .maximum-liability,
+  .merchant-returns,
+  .modifications-to-terms,
+  .no-cash-refunds,
+  .payment-methods,
+  .privacy,
+  .prohibited-uses,
+  .purchase-of-gift-container,
+  .purchasing-channels,
+  .refunds-and-returns-container,
+  .responsibility,
+  .right-to-amend,
+  .safeguarding,
+  .usage-restrictions,
+  .user,
+  .user-responsibilities,
+  .user-responsibility,
+  .website {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

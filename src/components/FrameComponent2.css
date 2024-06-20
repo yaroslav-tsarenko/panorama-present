@@ -1,0 +1,234 @@
+.argos-5-egift {
+  height: 40px;
+  width: 128px;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.data {
+  flex: 1;
+  border-top: 1px solid #9b9b9b;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 35px 8px 7px;
+  min-width: 128px;
+}
+.emphasis-e {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 8.6px;
+}
+.data1 {
+  width: 74px;
+  border-top: 1px solid #9b9b9b;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 30px 32px 32px 33px;
+  z-index: 1;
+  text-align: center;
+  font-family: Raleway;
+}
+.p10,
+.save-6-off {
+  margin: 0;
+}
+.save-6-off-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.data2 {
+  width: 158px;
+  background-color: #fcf8e3;
+  border-top: 1px solid #9b9b9b;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 6px 31.3px 11px;
+  z-index: 2;
+}
+.quantity {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 55px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.quantity-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+}
+.options-empty {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 6.3px;
+  z-index: 1;
+}
+.border4,
+.border5 {
+  position: absolute;
+  right: 0;
+  border-right: 4px solid #404040;
+  border-left: 4px solid #404040;
+  box-sizing: border-box;
+  width: 8px;
+  height: 4px;
+}
+.border4 {
+  top: 0;
+  border-bottom: 4px solid #404040;
+}
+.border5 {
+  bottom: 0;
+  border-top: 4px solid #404040;
+}
+.backgroundshadow3 {
+  width: 8px;
+  height: 11px;
+  position: relative;
+  box-shadow: 0 0 0 5px #fff;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.backgroundshadow-wrapper,
+.frame-parent1,
+.options1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundshadow-wrapper {
+  flex-direction: column;
+  padding: 4.5px 0 0;
+}
+.frame-parent1,
+.options1 {
+  flex-direction: row;
+}
+.options1 {
+  flex: 1;
+  box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.08) inset;
+  border-radius: 2px;
+  background-color: #fff;
+  border: 1px solid #9b9b9b;
+  padding: 3px 10px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  text-align: left;
+  color: #555;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 5.9px;
+}
+.symbol18 {
+  margin-top: -1px;
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.background13 {
+  height: 20px;
+  width: 28px;
+  border-radius: 1px 0 0 1px;
+  background-color: #419641;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.add-to-basket {
+  align-self: stretch;
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 77.1px;
+}
+.add-to-basket-wrapper,
+.button2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.add-to-basket-wrapper {
+  width: 77.1px;
+  flex-direction: column;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  font-family: Raleway;
+}
+.button2 {
+  align-self: stretch;
+  border-radius: 1px;
+  background-color: #5cb85c;
+  flex-direction: row;
+  padding: 1px;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+  font-family: Poppins;
+}
+.small-available {
+  width: 68.9px;
+  position: relative;
+  font-size: 11.9px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  min-width: 68.9px;
+}
+.data3,
+.product-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data3 {
+  width: 210px;
+  border-top: 1px solid #9b9b9b;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 1px 7px 4px 82px;
+  gap: 4px;
+  z-index: 3;
+  text-align: right;
+  font-family: Raleway;
+}
+.product-card {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  text-align: left;
+  font-size: 14px;
+  color: #383838;
+  font-family: "PT Sans";
+}
